@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @alivabasa
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning machine learning and automation
+- 👀 I’m working as a SDET
+- Skills: Selenium, Cucumber (BDD), TestNG, Rest API
+  
 
 
 
